@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on working with projects that develop and enhance skill
 - 📫 you can reach me through -
 - Linkedin - https://www.linkedin.com/in/saiyambhuraria
-- Gmail-saiyambhuraria45@gmail.com
+- Gmail - saiyambhuraria45@gmail.com
 
 <!---
 saiyam2812/saiyam2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
