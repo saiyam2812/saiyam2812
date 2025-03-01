@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saiyam2812
-- 👀 I’m interested in exploring the beauty of new technology and computer science
-- 🌱 I’m currently learning MERN and ML
+- 👀 I’m interested in exploring the new trends and try to adapt it and computer science
+- 🌱 I’m currently Exploring the beauty of Data Science 
 - 💞️ I’m looking to collaborate on working with projects that develop and enhance skill
 - 📫 you can reach me through -
 - Linkedin - https://www.linkedin.com/in/saiyambhuraria
